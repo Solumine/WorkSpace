@@ -182,7 +182,7 @@ label {
 }
 .algo {
     transition: .3s;
-    background-color: var(--primary, #363636);
+    background-color:  var(--fourth, #fab94fea);
     border-radius: 2rem;
     float: right;
     width: 50%;
@@ -191,11 +191,11 @@ label {
     margin-left: 2rem;
 }
 .algo:hover {
-    background-color: var(--fourth, #fab94fea);
+    transform: scale(0.95);
 }
 .react {
     transition: 0.5s;
-    background-color: var(--primary, #363636);
+    background-color:  var(--fourth, #fab94fea);
     border-radius: 2rem;
     float: left;
     width: 50%;
@@ -205,9 +205,7 @@ label {
     margin-right: 2rem;
 }
 .react:hover { 
-    transform-origin: center; 
-    transform: rotate(180deg);
-    background-color: var(--fourth, #fab94fea);
+    transform: scale(0.95);
 }
 h2 {
     text-align: center;
