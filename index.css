@@ -1,9 +1,3 @@
-* {
-    line-height: 1.4;
-    font-family: Verdana, sans-serif;
-    font-display: swap;
-    box-sizing: border-box;
-}
 :root {
     --form-background: #ddd;
     --primary: #363636;
@@ -12,6 +6,12 @@
     --third: #fb9643ea;
     --fourth: #fab94fea;
   }
+* {
+    line-height: 1.4;
+    font-family: Verdana, sans-serif;
+    font-display: swap;
+    box-sizing: border-box;
+}
 html {
         font-size: 62.5%;
     }
