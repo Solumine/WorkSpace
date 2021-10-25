@@ -2,7 +2,7 @@
     line-height: 1.4;
     font-family: Verdana, sans-serif;
     font-display: swap;
-    box-sizing: border-box;
+    box-sizing: border-box; 
 } 
 :root {
     --form-background: #ddd;
